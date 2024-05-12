@@ -1,9 +1,9 @@
 terraform {
   backend "s3" {
-    bucket         = "abhishek-s3-demo-xyz" # mude isso
-    key            = "abhi/terraform.tfstate"
+    bucket         = "jorge-s3-demo-xyz" # mude isso
+    key            = "jorge/terraform.tfstate"
     region         = "us-east-1"
     encrypt        = true
-    dynamodb_table = "terraform-lock"
+    dynamodb_table = "terraform-dynamodb-table"
   }
 }

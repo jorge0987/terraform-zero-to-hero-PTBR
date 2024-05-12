@@ -1,4 +1,4 @@
-# Curso de terrafor do zero a produção!
+# Curso de terraform do zero a produção!
 Este curso foi desenvolvido por Abhishek Veeramalla, para estudo próprio estou traduzindo fazer fazendo algumas modificações para um melhor entendimento em portugues. Deixarei os links logo a baixo: 
 
 Playlist do youtube:
